@@ -2,7 +2,7 @@ name: Username Checker
 
 on:
   schedule:
-    - cron: "* * * * *"   # every minute
+    - cron: "*/2 * * * *"   # every minute
   workflow_dispatch:        # allow manual trigger too
 
 permissions:
