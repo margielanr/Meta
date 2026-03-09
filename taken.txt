@@ -412,7 +412,6 @@ gio
 gip
 gis
 git
-gnu
 goa
 gob
 god
