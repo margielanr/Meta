@@ -794,7 +794,6 @@ ore
 orf
 ors
 ort
-ose
 oud
 our
 out
