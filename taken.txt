@@ -514,6 +514,7 @@ ion
 ios
 ire
 irk
+ish
 ism
 iso
 ita
